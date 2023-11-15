@@ -1,6 +1,6 @@
 "# My-Learnings" 
 
-This Repo is mainly contains readme or txt files of different leaning activities that i am going to do for my college placement
+This Repo mainly contains readme or txt files of different leaning activities that i am going to do for my college placement
 
 And this README is going to be my Daily Dairy...
 
